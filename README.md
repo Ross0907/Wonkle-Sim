@@ -2,6 +2,7 @@
 A simulator for the open source hall effect project [Wonkle](https://github.com/wonkleio/wonkle) which simulates hexagonal and square hall effect grid with absolute positioning algorithm and pen tilt simulation.
 
 To try just run the python script `hex_test.py`.
+
 Make sure to have PyGame and python installed through `pip install pygame` 
 
 
